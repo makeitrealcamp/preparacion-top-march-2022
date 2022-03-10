@@ -1,4 +1,4 @@
-# Ejercicios día 2
+# Ejercicios día 3
 
 ## Ejercicio 7
 
