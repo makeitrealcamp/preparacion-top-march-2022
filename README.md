@@ -58,7 +58,7 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Sesión 2](https://makeitreal.s3.amazonaws.com/videos/86902259729/2022-03-09/VPrFpF8yx.mp4) | [Replit](https://replit.com/@juanan0309/Dia-2#index.js)
 - [Sesión 3](https://makeitreal.s3.amazonaws.com/videos/86902259729/2022-03-10/NAQTFIhwb.mp4) | [Replit](https://replit.com/@juanan0309/Dia-3#index.js)
 - [Sesión 4](https://makeitreal.s3.amazonaws.com/videos/86902259729/2022-03-11/JaAb_lK4b.mp4) | [Replit](https://replit.com/@juanan0309/Dia-4#index.js)
-- [Sesión 5]() | [Replit](https://replit.com/@juanan0309/Dia-5#index.js) | [Errores comunes](errores-comunes.md) | [Proceso de solución de problemas](proceso-preparacion-resolver-problemas.md)
+- [Sesión 5](https://makeitreal.s3.amazonaws.com/videos/86902259729/2022-03-11/JaAb_lK4b.mp4) | [Replit](https://replit.com/@juanan0309/Dia-5#index.js) | [Errores comunes](errores-comunes.md) | [Proceso de solución de problemas](proceso-preparacion-resolver-problemas.md)
 
 
 ## Déjanos saber que hiciste el curso
